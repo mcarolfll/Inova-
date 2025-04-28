@@ -38,13 +38,7 @@ border: 1px solid #ddd;
 border-radius: 8px;
 overflow: hidden;
 width: 250px;
-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-transition: transform 0.3s;
-object-position: center center; /* Garante que o centro da imagem fique visível */
-}
-
-.card:hover {
-transform: scale(1.03);
+object-position: center center; 
 }
 
 .card img {
